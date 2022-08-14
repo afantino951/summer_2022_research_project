@@ -20,7 +20,7 @@ Raspi Sample Implementation of "Neurosurgeon: Collaborative Intelligence Between
 ### Pytorch Stuff
 
 - Here is a link to the tutorial that I followed to implement a fashion mnist classifier. <https://towardsdatascience.com/build-a-fashion-mnist-cnn-pytorch-style-efb297e22582>
-
+    - Copy and pasted this code and put it in a nice class based systemS
 ### Final Integration
 
 - Originally thought to use pytorch hook functionality to implement neurosurgeon. Here are some links to [forums](https://discuss.pytorch.org/t/stop-model-evaluation-with-forward-hook/12882) and blogs about it.
