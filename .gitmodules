@@ -1,0 +1,3 @@
+[submodule "NumpySocket"]
+	path = NumpySocket
+	url = https://github.com/sabjorn/NumpySocket.git
